@@ -1,0 +1,7 @@
+{
+  "name": "ion-input-password-keychain",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
